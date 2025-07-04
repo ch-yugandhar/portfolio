@@ -9,8 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var typed = new Typed("#typed", {
     strings: [
       "Web Developer.",
-      "Ethical Hacker.",
-      "I build. I secure. I innovate."
+      "Ethical Hacker."
     ],
     typeSpeed: 50,
     backSpeed: 30,
